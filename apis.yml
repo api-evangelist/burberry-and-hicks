@@ -31,6 +31,9 @@ description: Burberry & Hicks is a company listed on the Battery Ventures "List 
   kind for this company. Battery's own listing carries no outbound link. The profile is retained as an
   historical portfolio record rather than as an active API provider, and carries no API artifacts.
 url: https://raw.githubusercontent.com/api-evangelist/burberry-and-hicks/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "A July 2026 enrichment pass searched the open web, venture databases, and candidate domains and found no active corporate website, no developer portal, no documentation, and no public API surface of a"
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
